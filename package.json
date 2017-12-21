@@ -1,0 +1,21 @@
+{
+  "name": "jquery-autocomplete",
+  "version": "1.0.7",
+  "description": "A lightweight autocomplete plugin for jQuery.",
+  "author": "Nubium",
+  "license": "MIT",
+  "main": "jquery.auto-complete.js",
+  "private": true,
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nubium/jQuery-autoComplete.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nubium/jQuery-autoComplete/issues"
+  },
+  "homepage": "https://github.com/nubium/jQuery-autoComplete#readme"
+}
